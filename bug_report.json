@@ -1,1 +1,4 @@
-
+{ "step 1": "open file",
+  "step 2": "click menu",
+  "step 3": "try to add new users"
+}
